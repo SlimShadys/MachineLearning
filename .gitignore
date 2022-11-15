@@ -1,0 +1,5 @@
+# VS Code Dir
+.vscode/
+
+# Ignore Homeworks folder for now
+test/Homeworks
