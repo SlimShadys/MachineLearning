@@ -3,3 +3,6 @@
 
 # Ignore Homeworks folder for now
 test/Homeworks
+
+# Ignore ARGOS Dataset (+2 GB)
+test/Datasets/ARGOS_public/
