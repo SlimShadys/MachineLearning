@@ -1,8 +1,9 @@
 # VS Code Dir
 .vscode/
 
-# Ignore Homeworks folder for now
-test/Homeworks
+# Ignore Homeworks elements
+test/Homeworks/1. Multi-UAV Conflict Prediction/Imgs
+test/Homeworks/1. Multi-UAV Conflict Prediction/*.zip
 
 # Ignore ARGOS Dataset (+2 GB)
 test/Datasets/ARGOS_public/
